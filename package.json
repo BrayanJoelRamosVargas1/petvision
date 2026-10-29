@@ -1,0 +1,1 @@
+{"name":"petvision","private":true,"version":"1.0.0","type":"module","scripts":{"test":"node --test tests/*.test.js"},"license":"AGPL-3.0-only"}
